@@ -10,3 +10,5 @@
 - train: run scripts/modelarts_train.sh
 - test: run scripts/modelarts_test.sh
 
+## Dataset 
+- https://hz-datasets.oss-cn-shenzhen.aliyuncs.com/model/P3L_dataset.rar
